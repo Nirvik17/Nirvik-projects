@@ -1,0 +1,41 @@
+Risk ID,Risk Description,Date Identified,Likelihood,Impact,Risk Score,Mitigation Strategy,Control Status,Risk Level,Risk Status,Date Closed,Risk Category,Department
+RISK-1000,Product recall due to defects,2024-02-24,3,2,6,Mitigation plan 4,In-Progress,Medium,New,,Other,Operations
+RISK-1001,Market volatility affecting investments,2024-12-06,5,3,15,Mitigation plan 3,Completed,High,Closed,2025-03-13,Financial,Finance
+RISK-1002,Security breach in cloud storage,2024-12-23,3,3,9,Mitigation plan 7,In-Progress,Medium,New,,Cybersecurity,Cybersecurity/IT
+RISK-1003,Customer data privacy violation,2024-11-29,2,3,6,Mitigation plan 3,In-Progress,Medium,New,,Other,Legal & Compliance
+RISK-1004,Business interruption due to labor strikes,2024-08-01,2,4,8,Mitigation plan 6,In-Progress,Medium,New,,Operational,Operations
+RISK-1005,Reputation damage due to social media incident,2024-08-01,1,1,1,Mitigation plan 3,Overdue,Low,New,,Reputational,Public Relations/Marketing
+RISK-1006,Health and safety violations,2024-02-18,2,2,4,Mitigation plan 8,Overdue,Low,New,,Environmental & Safety,EHS
+RISK-1007,Security breach in cloud storage,2024-10-27,5,4,20,Mitigation plan 8,In-Progress,High,New,,Cybersecurity,Cybersecurity/IT
+RISK-1008,IT system failure,2024-05-26,5,1,5,Mitigation plan 5,Overdue,Medium,New,,Operational,Operations
+RISK-1009,Customer dissatisfaction due to poor service,2024-12-13,4,5,20,Mitigation plan 10,Completed,High,Closed,2025-02-19,Reputational,Public Relations/Marketing
+RISK-1010,Failure to secure funding for expansion,2024-11-10,1,5,5,Mitigation plan 8,In-Progress,Medium,New,,Financial,Finance
+RISK-1011,Increase in operational costs,2024-08-26,3,4,12,Mitigation plan 4,Overdue,High,New,,Operational,Operations
+RISK-1012,Regulatory non-compliance,2024-12-16,2,1,2,Mitigation plan 3,Overdue,Low,New,,Legal & Compliance,Legal & Compliance
+RISK-1013,Unethical business practices exposure,2024-09-16,1,2,2,Mitigation plan 1,Overdue,Low,New,,Legal & Compliance,Legal & Compliance
+RISK-1014,Workplace misconduct incidents,2024-08-11,5,1,5,Mitigation plan 9,In-Progress,Medium,New,,Reputational,Human Resources
+RISK-1015,Loss of competitive advantage,2024-08-12,1,5,5,Mitigation plan 5,In-Progress,Medium,New,,Financial,Strategic Planning
+RISK-1016,Disruption in global supply chain,2024-11-28,1,3,3,Mitigation plan 2,In-Progress,Low,New,,Operational,Operations
+RISK-1017,Supplier failure disrupting operations,2024-02-17,3,3,9,Mitigation plan 5,Completed,Medium,Closed,2024-04-24,Other,Operations
+RISK-1018,Failure to secure funding for expansion,2024-05-09,5,3,15,Mitigation plan 9,Overdue,High,New,,Financial,Finance
+RISK-1019,Disruptive new market entrants,2024-12-14,4,4,16,Mitigation plan 9,Overdue,High,New,,Strategic,Strategic Planning
+RISK-1020,Failure in AI/automation implementation,2024-09-18,3,4,12,Mitigation plan 5,Completed,High,Closed,2025-01-27,Operational,R&D/Innovation
+RISK-1021,Inadequate disaster recovery planning,2024-09-08,4,2,8,Mitigation plan 2,Overdue,Medium,New,,Other,Operations/IT
+RISK-1022,Failure to manage third-party vendors,2024-10-30,2,5,10,Mitigation plan 8,In-Progress,High,New,,Other,Operations
+RISK-1023,Product quality failure,2024-03-31,3,4,12,Mitigation plan 10,Overdue,High,New,,Operational,Operations
+RISK-1024,Compliance risk in international markets,2024-09-25,1,5,5,Mitigation plan 7,In-Progress,Medium,New,,Legal & Compliance,Legal & Compliance
+RISK-1025,Economic downturn affecting revenue,2024-06-26,3,2,6,Mitigation plan 7,Completed,Medium,Closed,2024-09-15,Financial,Finance
+RISK-1026,Data loss from ransomware attack,2024-07-12,3,5,15,Mitigation plan 4,In-Progress,High,New,,Cybersecurity,Cybersecurity/IT
+RISK-1027,Regulatory non-compliance,2024-08-18,4,2,8,Mitigation plan 7,Overdue,Medium,New,,Legal & Compliance,Legal & Compliance
+RISK-1028,Failure to meet ESG targets,2024-11-20,1,4,4,Mitigation plan 7,Completed,Low,Closed,2025-03-20,Operational,Operations/Sustainability (Likely Shared)
+RISK-1029,Operational inefficiencies reducing margins,2024-06-11,3,5,15,Mitigation plan 2,Completed,High,Closed,2024-10-06,Operational,Operations
+RISK-1030,Product quality failure,2024-08-12,2,5,10,Mitigation plan 6,Overdue,High,New,,Operational,Operations
+RISK-1031,Intellectual property theft,2024-02-25,4,1,4,Mitigation plan 2,Completed,Low,Closed,2024-03-26,Other,Legal
+RISK-1032,Regulatory non-compliance,2024-06-08,4,1,4,Mitigation plan 1,Completed,Low,Closed,2024-12-01,Legal & Compliance,Legal & Compliance
+RISK-1033,Malware attack on IT infrastructure,2024-03-09,3,4,12,Mitigation plan 8,In-Progress,High,New,,Cybersecurity,Cybersecurity/IT
+RISK-1034,Intellectual property theft,2024-07-28,5,5,25,Mitigation plan 9,In-Progress,High,New,,Other,Legal
+RISK-1035,Operational inefficiencies reducing margins,2024-04-21,2,1,2,Mitigation plan 9,Completed,Low,Closed,2024-09-04,Operational,Operations
+RISK-1036,Compliance risk in international markets,2024-11-05,5,5,25,Mitigation plan 6,In-Progress,High,New,,Legal & Compliance,Legal & Compliance
+RISK-1037,Failure in AI/automation implementation,2024-12-03,5,4,20,Mitigation plan 1,Completed,High,Closed,2025-04-03,Operational,R&D/Innovation
+RISK-1038,Data loss from ransomware attack,2024-12-20,5,1,5,Mitigation plan 10,Completed,Medium,Closed,2025-04-09,Cybersecurity,Cybersecurity/IT
+RISK-1039,Natural disaster impacting facilities,2024-05-18,1,4,4,Mitigation plan 2,Overdue,Low,New,,Environmental & Safety,EHS/Operations
